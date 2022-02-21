@@ -1,0 +1,2 @@
+# Recriação - Clone personalizado de página Netflix
+#### Desenvolvi este projeto em HTML5 CSS3 com FlexBox JQueri. Trata-se de umaversão pessoal com personalização de imagens, logotipos, layout, links, botões e imagens que rodam em carrossel e simulam um ambiente real.  Acesso as bibliotecas fontawesome e TMDB.
